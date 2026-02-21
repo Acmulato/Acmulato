@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-👋 Hi, I’m @AcMulato, atualmente sou professora em Escola Estadual, Marilia-SP
+👋 I’m @AcMulato, atualmente sou professora em Escola Estadual, Marilia-SP
 🤖 Estudante de ADS @UNIMAR 2°Ano
 👀 I’m interested in estagios e/ou emprego na area de ADS/T.I
 🌱 I’m currently learning algorithm
